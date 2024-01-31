@@ -11,5 +11,6 @@ The bounding box of the map:
 
 The suggested maximum zoom is 16.
 
-> [!WARN]
+> [!WARNING]
+>
 > Trying to request beyond this bounding box is an undefined behaviour.
