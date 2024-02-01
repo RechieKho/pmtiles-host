@@ -9,7 +9,7 @@ The bounding box of the map:
 | Longitude | 101.63442 | 101.670031 |
 | Latitude | 3.104887 | 3.140746 |
 
-The suggested maximum zoom is 16.
+The suggested minimum zoom is 16.
 
 > [!WARNING]
 >
